@@ -1,0 +1,15 @@
+.jumbotron {
+    background-color: lightblue;
+}
+
+.coolbotton {
+    color: lightgrey;
+    height: 10%;
+    width: 20%;
+    font-weight: bold; 
+}
+
+span {
+    color: black;
+}
+

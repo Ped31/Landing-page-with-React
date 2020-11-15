@@ -1,0 +1,9 @@
+span{
+    color: lightblue;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.navbar{
+    justify-content: center;
+}
